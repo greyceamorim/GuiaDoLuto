@@ -28,3 +28,5 @@ In seven simple questions the guide shows only the steps that apply to that fami
 Feedback stores yes/no, the codes of the steps shown, the optional comment (long digit sequences are removed) and the date. Answers to the questions and IP addresses are not stored.
 
 Hosting: Cloudflare Pages connected to GitHub, framework preset None, no build command.
+
+:)
